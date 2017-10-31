@@ -1,0 +1,5 @@
+http://scholar.sogo.com/xueshu?w=2389&v=5&uID=OHNcvXlf3gryAW50&ie=utf8&keyword=china
+http://scholar.sogo.com/xueshu?keyword=deep+learning
+http://scholar.sogo.com/xueshu
+http://cn.bing.com/academic/partnerapi/search?q=china&pname=sogou&mkt=zh-cn&setlang=zh&form=SGACDM&sf=sogouvnextv2
+https://cn.aminer.org/search?t=b&q=china&source=sogou&stype=wap

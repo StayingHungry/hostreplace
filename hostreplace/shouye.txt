@@ -1,0 +1,4 @@
+http://english.sogo.com/
+http://scholar.sogo.com/xueshu
+http://dict.sogo.com/cidian
+http://www.bing.com/dict/partnerapi?pname=sogou

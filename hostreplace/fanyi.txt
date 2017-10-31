@@ -1,0 +1,2 @@
+http://fanyi.sogo.com/?keyword=china&fr=wapsearch_submit&from=en&to=zh-CHS
+http://fanyi.sogo.com/
